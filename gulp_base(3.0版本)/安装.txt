@@ -1,0 +1,2 @@
+cnpm install 安装
+gulp sass 运行
